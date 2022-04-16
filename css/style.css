@@ -14,3 +14,18 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+.internal {
+	text-align: justify;
+	float: right;
+}
+#cloud {
+	display: block;
+	width:400px; height:350px; 
+	position: relative;
+	margin-bottom: -50px;
+}
+#p {
+	position: absolute;
+	display: inline-block;
+}
